@@ -1,0 +1,13 @@
+# Runtime, local settings, and generated files
+python32/
+settings.json
+python_weztrans/python32/
+python_weztrans/settings.json
+**/__pycache__/
+__pycache__/
+*.py[cod]
+*.suo
+*.aps
+*.bak
+*.bak.*
+*.translating.txt
